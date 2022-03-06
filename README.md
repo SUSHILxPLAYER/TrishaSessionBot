@@ -1,4 +1,4 @@
-# 🔥 𝙏𝙧𝙞𝙨𝙝𝙖 𝙎𝙚𝙨𝙨𝙞𝙤𝙣 𝙂𝙚𝙣𝙚𝙧𝙖𝙩𝙤𝙧 ★
+# 🔥 𝙉𝙖𝙫𝙮𝙖 𝙎𝙚𝙨𝙨𝙞𝙤𝙣 𝙂𝙚𝙣𝙚𝙧𝙖𝙩𝙤𝙧 ★
 
 <h4 align="center">Pyrogram and Telethon String Session Bot</h4>
 
@@ -13,7 +13,7 @@
 
 
 ### 𝗔𝘃𝗮𝗶𝗹𝗮𝗯𝗹𝗲 𝗢𝗻 𝗧𝗲𝗹𝗲𝗚𝗿𝗮𝗺 
-- [🛡️LgcY 𝐒𝐞𝐬𝐬𝐢𝐨𝐧🛡️](https://t.me/LGCY_STRING_ROBOT) BOT
+- [🛡️𝐋𝐆𝐂𝐘 𝐒𝐞𝐬𝐬𝐢𝐨𝐧🛡️](https://t.me/LGCY_STRING_ROBOT) BOT
 
 
 
@@ -25,7 +25,7 @@
 
 
 ### 𝙎𝙥𝙚𝙘𝙞𝙖𝙡 𝘾𝙧𝙚𝙙𝙞𝙩𝙨 ⚡
-- [NAVYA🔥](https://t.me/TAG_FBAN) 𝗢𝘄𝗻𝗲𝗿
+- [𝐍𝐀𝐕𝐘𝐀🔥](https://t.me/TAG_FBAN) 𝗢𝘄𝗻𝗲𝗿
 
 #### Mandatory Vars
 
